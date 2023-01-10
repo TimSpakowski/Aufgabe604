@@ -2,7 +2,7 @@
 
 int main() {
   int prim[300];
-  inti, j;
+  int i, j;
   
   for (i = 2; i <= 300; i++) {
     prim[i] = 1;
